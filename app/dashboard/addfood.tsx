@@ -1,0 +1,1 @@
+{/* The Modal for creating a food object */}
